@@ -1,6 +1,6 @@
 # vue-app-demo
 
-> A Vue.js project
+> A Vue.js project for a Single Page Application (SPA)
 
 ## Build Setup
 
